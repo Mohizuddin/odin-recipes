@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  line-height: 25px;
+}
+
+.heading {
+  text-align: center;
+  margin: 2%;
+}
+
+h1,
+h4 {
+  color: #00bd9d;
+}
+
+img {
+  height: 700px;
+}
+
+.caption {
+  font-weight: 400;
+  font-family: cursive;
+  text-align: center;
+  margin: 3%;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.container h4 {
+  font-size: 25px;
+  margin: 2% 0% 2% 0%;
+}
+
+ol {
+  margin-bottom: 5%;
+}
